@@ -1,8 +1,11 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-OPTICA-ORBERA/releases/download/v1.0.2/SAIMUS-APP-OPTICA-ORBERA.exe",
-  "sha256": "014410CE66D23572FB599ECD6A6DABB0A47E00FB4A1CD29C9A1189C401718A46",
+  "version": "1.0.3",
+  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-OPTICA-ORBERA/releases/download/v1.0.3/SAIMUS-APP-OPTICA-ORBERA.exe",
+  "sha256": "ADEB337DC171FBC3ADA23B8577D04C7E09E15C65764713DAD3B042B0B82068AB",
   "changelog": [
-    "Los encargos completados se ocultan de la lista normal al día siguiente, en lugar de después de tres días."
+    "Sincronización automática de encargos entre los ordenadores que comparten la carpeta de la aplicación.",
+    "Detección inmediata de cambios con comprobación silenciosa de respaldo cada dos segundos.",
+    "Protección de escritura para evitar pérdidas de datos cuando dos ordenadores guardan simultáneamente.",
+    "Protección ante ediciones simultáneas del mismo encargo."
   ]
 }
