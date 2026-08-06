@@ -1,11 +1,14 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-OPTICA-ORBERA/releases/download/v1.0.3/SAIMUS-APP-OPTICA-ORBERA.exe",
-  "sha256": "ADEB337DC171FBC3ADA23B8577D04C7E09E15C65764713DAD3B042B0B82068AB",
+  "version": "1.0.4",
+  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-FLOW/releases/download/v1.0.4/SAIMUS.APP%20FLOW.exe",
+  "sha256": "11BA1269E18D53077DFC927015C2951753886B284CAE7BA344E257CE1AB234AA",
   "changelog": [
-    "Sincronización automática de encargos entre los ordenadores que comparten la carpeta de la aplicación.",
-    "Detección inmediata de cambios con comprobación silenciosa de respaldo cada dos segundos.",
-    "Protección de escritura para evitar pérdidas de datos cuando dos ordenadores guardan simultáneamente.",
-    "Protección ante ediciones simultáneas del mismo encargo."
+    "Nueva identidad SAIMUS/APP FLOW.",
+    "El ejecutable pasa a llamarse SAIMUS.APP FLOW.exe.",
+    "Migración automática desde el nombre anterior conservando todos los datos.",
+    "Inicio de sesión obligatorio mediante usuario y contraseña.",
+    "Validación segura de licencias y dispositivos mediante la API de FLOW.",
+    "Usuario Maestro con desbloqueo temporal.",
+    "Los encargos continúan almacenándose en la carpeta local o LAN compartida."
   ]
 }
