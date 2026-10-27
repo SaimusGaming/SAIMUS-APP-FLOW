@@ -1,14 +1,13 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-FLOW/releases/download/v1.0.4/SAIMUS.APP.FLOW.exe",
-  "sha256": "11BA1269E18D53077DFC927015C2951753886B284CAE7BA344E257CE1AB234AA",
+  "version": "1.0.5",
+  "download_url": "https://github.com/SaimusGaming/SAIMUS-APP-FLOW/releases/download/v1.0.5/SAIMUS.APP.FLOW.exe",
+  "sha256": "DF6F4C67CEF1C79D1CD21D7B083CD6137D8E972F8F6B149A8B64263E08F8BED0",
   "changelog": [
-    "Nueva identidad SAIMUS/APP FLOW.",
-    "El ejecutable pasa a llamarse SAIMUS.APP FLOW.exe.",
-    "Migración automática desde el nombre anterior conservando todos los datos.",
-    "Inicio de sesión obligatorio mediante usuario y contraseña.",
-    "Validación segura de licencias y dispositivos mediante la API de FLOW.",
-    "Usuario Maestro con desbloqueo temporal.",
-    "Los encargos continúan almacenándose en la carpeta local o LAN compartida."
+    "Menú contextual con Editar y Eliminar al pulsar el botón derecho sobre un encargo.",
+    "Selección múltiple manteniendo ALT y contador dinámico en el botón Eliminar.",
+    "Borrado múltiple protegido para carpetas compartidas entre varios ordenadores.",
+    "Historial de fecha, estado y descripción disponible desde Editar encargo.",
+    "El formulario permanece inmóvil al abrir el historial y el panel dispone de desplazamiento independiente.",
+    "Migración automática de los encargos existentes sin perder datos."
   ]
 }
